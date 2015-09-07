@@ -1,0 +1,10 @@
+{
+    "author": "timedot",
+    "name": "my_module",
+    "version": "0.1.0",
+    "main": "censortext",
+    "dependencies" : {},
+    "engines": {
+        "node": "*"
+    }
+}
