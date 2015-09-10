@@ -1,14 +1,14 @@
 {
-    "author": "timedot7",
-    "name": "timedot7",
+    "author": "timedot",
+    "name": "timedot_1",
     "version": "0.1.1",
     "main": "censortext",
     "repository": {
         "type": "git",
-        "url": "http://gitgub.com/timedot/nodejs_study/censorify"
+        "url": "http://gitgub.com/timedot/nodejs_study/timedot_1"
     },
     "keywords": [
-        "censor",
+        "timedot",
         "words"
     ],
     "dependencies" : {},
