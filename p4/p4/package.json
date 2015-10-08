@@ -1,0 +1,15 @@
+﻿{
+  "name": "p4",
+  "version": "0.0.0",
+  "description": "p4",
+  "main": "app.js",
+  "author": {
+    "name": "Win7",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
